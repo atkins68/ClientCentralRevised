@@ -7,7 +7,7 @@ namespace ClientCentralRevised
     // Application:     Client Central
     // Author:          Atkinson, Nathan D
     // Description:     WinForm app that can add contacts to a 
-    //                  list for future reference and use
+    //                  list for future reference and use.
     // Date Created:    04/26/2020
     // Date Revised:    04/26/2020
     // *************************************************************
